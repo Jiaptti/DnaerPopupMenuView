@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Documents-PopupMenuView.iml" filepath="$PROJECT_DIR$/Documents-PopupMenuView.iml" />
       <module fileurl="file://$PROJECT_DIR$/PopupMenuView.iml" filepath="$PROJECT_DIR$/PopupMenuView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/PopupMenuView-app.iml" filepath="$PROJECT_DIR$/app/PopupMenuView-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popmenu/PopupMenuView-popmenu.iml" filepath="$PROJECT_DIR$/popmenu/PopupMenuView-popmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/popmenu/library.iml" filepath="$PROJECT_DIR$/popmenu/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/popmenu/popmenu.iml" filepath="$PROJECT_DIR$/popmenu/popmenu.iml" />
     </modules>
   </component>
